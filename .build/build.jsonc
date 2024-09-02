@@ -22,13 +22,13 @@
   "displayName": "Datapack + Mod Template",
   "version": "1.0.0",
   "license": {
-    "name": "Anti-Capitalist Software License (v 1.4)",
-    "id": "Anti-Capitalist Software License (v 1.4), https://anticapitalist.software",
-    "version": "1.4",
-    "url": "https://anticapitalist.software",
-    "description": "The Anti-Capitalist Software License (ACSL) is a software license towards a world beyond capitalism. This license exists to release software that empowers individuals, collectives, worker-owned cooperatives, and nonprofits, while denying usage to those that exploit labor for profit."
+    "name": "The MIT No Attribution License",
+    "id": "MIT-0",
+    "version": "N/A",
+    "url": "https://github.com/aws/mit-0",
+    "description": "The \\\"MIT No Attribution\\\" or \\\"MIT-0\\\" license is a modification to the usual MIT license that removes the requirement for attribution. It is roughly the same as an MIT license consisting of a sandwich of (paragraph, line, paragraph), but it is missing the middle line of the 'sandwich'."
   },
-  "description": "Template for datapacks with built-in modloader support",
+  "description": "Template for data packs with built-in mod loader support",
   "sites": {
     // Source code hosted here
     "sources": "https://github.com/satyrnidae/datapack-mod-template/",
@@ -38,7 +38,7 @@
     "releases": "https://github.com/satyrnidae/datapack-mod-template/releases"
   },
   // Forge / NeoForge credit string. Optional.
-  "credits": "satyrnidae for her datapack/mod template",
+  "credits": null,
   // Quilt-loader specific and required; the maven group of this datapack.
   "group": "dev.satyrn",
   // Pack options. See https://minecraft.wiki/w/Pack_format for more info.
